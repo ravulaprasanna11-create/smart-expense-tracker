@@ -1,0 +1,15 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.income {
+  color: green;
+}
+
+.expense {
+  color: red;
+}
